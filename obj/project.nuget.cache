@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKugHm1oMcPEM0kTCoxG/RPqYwncHiJ70Rk2XN+3C1yw/akIxkUlPxbVZypDOq3J5z8sPuZFBVdxoc4jCT/iFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trabalho\\Documents\\testandoInterface\\testandoInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trabalho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\trabalho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\trabalho\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\trabalho\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\trabalho\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\trabalho\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
